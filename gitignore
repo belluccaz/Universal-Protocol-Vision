@@ -1,0 +1,42 @@
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Backup and temporary files
+*.bak
+*.tmp
+*.swp
+*.swo
+*~
+
+# Office temp files
+~$*
+*.lock
+
+# Logs
+*.log
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# Node.js (if any scripts or tools are added)
+node_modules/
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Output and build folders
+dist/
+build/
+.cache/
+
+# PDF exports (optional, if generated locally)
+*.pdf
